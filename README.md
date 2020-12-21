@@ -14,6 +14,6 @@ I'm a highly passionate front end developer based in Orlando. I love building we
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EDowning2000&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EDowning2000&show_icons=true&theme=dark)  
 
 ![Profile views](https://gpvc.arturio.dev/EDowning2000)  
